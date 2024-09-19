@@ -4,6 +4,11 @@
 
 This data analysis project aims to provide insights into the Gross Domestic Product(GDP) performance of Nigeria from 2020-2022. By analyzing the real GDP of this dataset, we seek to identify trends over time, Quarter on Quarter, make data-driven recommendations, and gain a deeper understanding of the Nigeria's economy and performances. 
 
+![GDP By Quarterly Trend  pics](https://github.com/user-attachments/assets/2379d29f-b474-4435-8aa7-f8c2ecccd172)
+
+
+
+
 ### Data Sources
 
 GDP Data: The primary dataset used for this analysis is the "GDP_data_raw" file, containing detailed information about each GDP of Nigeria from 2020-2022.
